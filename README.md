@@ -8,7 +8,7 @@
 </br>
 
 
-## Hard Skills:</br>
+## Linguagens e Ferramentas:</br>
 <img src="https://emojis.slackmojis.com/emojis/images/1450319444/32/python.png?1450319444" width="40" height="40"/> &nbsp; &nbsp;
 <img src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" width="40" height="40" /> &nbsp; &nbsp;
 <img src="https://emojis.slackmojis.com/emojis/images/1470343792/719/html5.png?1470343792" width="40" height="40" /> &nbsp; &nbsp;
