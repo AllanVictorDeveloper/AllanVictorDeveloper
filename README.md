@@ -14,12 +14,11 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1470343792/719/html5.png?1470343792" width="30" height="30" /> &nbsp; &nbsp;
 <img src="https://emojis.slackmojis.com/emojis/images/1497185511/2411/css.jpg?1497185511" width="30" height="30" /> &nbsp; &nbsp;
 <img src="https://emojis.slackmojis.com/emojis/images/1483054030/1541/django.png?1483054030" width="30" height="30"/> &nbsp; &nbsp;
-<img src="https://emojis.slackmojis.com/emojis/images/1501021339/341/git.png?1501021339" width="30" height="30"/> &nbsp; &nbsp;
-<img src="https://emojis.slackmojis.com/emojis/images/1587484871/8712/github.png?1587484871" width="30" height="30"/>
  
 </br>
 </br>
-
+</br>
+</br>
 
 ![Allan Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanVictorDeveloper&show_icons=true&theme=dracula)
 
