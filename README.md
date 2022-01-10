@@ -28,7 +28,9 @@
 </br>
 
 ## Contact Me:
-<a href="https://www.linkedin.com/in/allan-victor-442153220/" style="text-decoration:none"><img src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/allan-victor-442153220/" style="text-decoration:none" target="_blank"><img src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" width="40" height="40"/>
 </a> &nbsp; &nbsp;
-<a href="https://www.instagram.com/allandev91/" style="text-decoration:none"><img src="https://emojis.slackmojis.com/emojis/images/1467306728/632/instagram.png?1467306728" width="40" height="40"/>
+<a href="https://www.instagram.com/allandev91/" style="text-decoration:none" target="_blank"><img src="https://emojis.slackmojis.com/emojis/images/1467306728/632/instagram.png?1467306728" width="40" height="40"/>
 </a> &nbsp; &nbsp;
+<a href="mailto:allanvictor.developer@gmail.com" style="text-decoration:none" target="_blank"><img src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="40" height="40"/>
+</a>
