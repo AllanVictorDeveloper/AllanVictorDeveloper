@@ -2,7 +2,7 @@
 
 ## **About Me**
 
-### Analista de Sistemas formado pela UNESA. Estudando desenvolvimento Front-End, e possuo conhecimentos em outras tecnologias. Buscando me desenvolver profissionalmente. Sou um entusiasta por tecnologia. 
+### Analista de Sistemas formado pela UNESA. Estudando desenvolvimento Back-End com linguagem Python, e possuo conhecimentos em outras tecnologias. Buscando me desenvolver profissionalmente. Sou um entusiasta por tecnologia. 
 
 </br>
 </br>
