@@ -1,8 +1,8 @@
- # **Olá, eu sou Allan**  🤙 👋
+ # **Olá, seja bem-vindo(a)**  🤙 
 
 ## **About Me**
 
-### Analista de Sistemas formado pela UNESA. Estudando desenvolvimento Back-End com linguagem Python, e possuo conhecimentos em outras tecnologias. Buscando me desenvolver profissionalmente. Sou um entusiasta por tecnologia. 
+### Analista de Sistemas formado pela UNESA. Desenvolvedor Back-End na linguagem C# .NET, e possuo conhecimentos em outras tecnologias, front-end (JS, Angular). Buscando me desenvolver profissionalmente. Sou um entusiasta por tecnologia. 
 
 </br>
 </br>
