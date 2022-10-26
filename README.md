@@ -10,6 +10,7 @@
 
 ## Linguagens e Ferramentas:</br>
 <img src="https://slackmojis.com/emojis/10315-c-sharp-logo/download" width="40" height="40"/> &nbsp; &nbsp;
+<img src="https://slackmojis.com/emojis/38051-dotnet/download" width="40" height="40"/> &nbsp; &nbsp;
 <img src="https://slackmojis.com/emojis/38068-angular/download" width="40" height="40"/> &nbsp; &nbsp;
 <img src="https://slackmojis.com/emojis/3616-js/download" width="40" height="40"/> &nbsp; &nbsp;
 <img src="https://emojis.slackmojis.com/emojis/images/1470343792/719/html5.png?1470343792" width="40" height="40" /> &nbsp; &nbsp;
