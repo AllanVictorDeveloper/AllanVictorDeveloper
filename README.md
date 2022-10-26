@@ -2,17 +2,22 @@
 
 ## **About Me**
 
-### Analista de Sistemas formado pela UNESA. Desenvolvedor Back-End na linguagem C# .NET, e possuo conhecimentos em outras tecnologias, front-end (JS, Angular). Buscando me desenvolver profissionalmente. Sou um entusiasta por tecnologia. 
+### Analista de Sistemas formado pela UNESA. Desenvolvedor Back-End na linguagem C# .NET,  possuo conhecimentos em outras tecnologias, no desenvolvimento front-end (JavaScript, Angular, HTML e CSS). Buscando me desenvolver profissionalmente. Sou um entusiasta por tecnologia. 
 
 </br>
 </br>
 
 
 ## Linguagens e Ferramentas:</br>
-<img src="https://emojis.slackmojis.com/emojis/images/1450319444/32/python.png?1450319444" width="40" height="40"/> &nbsp; &nbsp;
+<img src="https://slackmojis.com/emojis/10315-c-sharp-logo/download" width="40" height="40"/> &nbsp; &nbsp;
+<img src="https://slackmojis.com/emojis/38068-angular/download" width="40" height="40"/> &nbsp; &nbsp;
+<img src="https://slackmojis.com/emojis/3616-js/download" width="40" height="40"/> &nbsp; &nbsp;
 <img src="https://emojis.slackmojis.com/emojis/images/1470343792/719/html5.png?1470343792" width="40" height="40" /> &nbsp; &nbsp;
 <img src="https://emojis.slackmojis.com/emojis/images/1497185511/2411/css.jpg?1497185511" width="40" height="40" /> &nbsp; &nbsp;
 <img src="https://emojis.slackmojis.com/emojis/images/1580783631/7685/git.png?1580783631" width="40" height="40"/> &nbsp; &nbsp;
+<img src="https://slackmojis.com/emojis/9754-docker/download" width="40" height="40"/> &nbsp; &nbsp;
+
+
  
 </br>
 </br>
