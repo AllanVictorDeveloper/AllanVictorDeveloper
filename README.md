@@ -1,41 +1,51 @@
- # **Olá, seja bem-vindo(a)** 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-## **About Me**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Allan+Nascimento;I+from+Brasil,+RJ;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-### Analista de Sistemas formado pela UNESA. Desenvolvedor Back-End na linguagem C# .NET,  possuo conhecimentos em outras tecnologias, no desenvolvimento front-end (JavaScript, Angular, HTML e CSS). Buscando me desenvolver profissionalmente. Sou um entusiasta por tecnologia. 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MthAlvarez&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MthAlvarez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
-</br>
-</br>
-
-
-## Linguagens e Ferramentas:</br>
-<img src="https://slackmojis.com/emojis/10315-c-sharp-logo/download" width="40" height="40"/> &nbsp; &nbsp;
-<img src="https://slackmojis.com/emojis/38051-dotnet/download" width="40" height="40"/> &nbsp; &nbsp;
-<img src="https://slackmojis.com/emojis/38068-angular/download" width="40" height="40"/> &nbsp; &nbsp;
-<img src="https://slackmojis.com/emojis/3616-js/download" width="40" height="40"/> &nbsp; &nbsp;
-<img src="https://emojis.slackmojis.com/emojis/images/1470343792/719/html5.png?1470343792" width="40" height="40" /> &nbsp; &nbsp;
-<img src="https://emojis.slackmojis.com/emojis/images/1497185511/2411/css.jpg?1497185511" width="40" height="40" /> &nbsp; &nbsp;
-<img src="https://emojis.slackmojis.com/emojis/images/1580783631/7685/git.png?1580783631" width="40" height="40"/> &nbsp; &nbsp;
-<img src="https://slackmojis.com/emojis/9754-docker/download" width="40" height="40"/> &nbsp; &nbsp;
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MthAlvarez&theme=gotham)
 
 
- 
-</br>
-</br>
-</br>
-</br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MthAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-![Allan Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanVictorDeveloper&show_icons=true&theme=dracula)
+<div align="center">  
+<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div>
+  
 
-</br>
-</br>
-</br>
-</br>
+### Main skills:
+  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 
-## Contact Me:
-<a href="https://www.linkedin.com/in/allan-victor-442153220/"  style="text-decoration:none"><img src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326"  width="40" height="40"/>
-</a> &nbsp; &nbsp;
-<a href="https://www.instagram.com/allandev91/"  style="text-decoration:none"><img src="https://emojis.slackmojis.com/emojis/images/1467306728/632/instagram.png?1467306728"  width="40" height="40"/>
-</a> &nbsp; &nbsp;
-<a href="mailto:allanvictor.developer@gmail.com"  style="text-decoration:none"><img src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="40" height="40"/>
-</a>
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+
+### Other Knowledge:
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+  
+### Studying in this moment:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthAlvarez}/count.svg" /></p> 
+<br></div>
+  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
