@@ -8,7 +8,8 @@
 </div>
 
 <div >
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AllanVictorDeveloper&bg_color=000000&color=ffffff&line=00bfbf&point=6b6fe6&area=true&hide_border=true)](https://github.com/AllanVictorDeveloper/github-readme-activity-graph)
+   <img width="49%" height="195px" src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AllanVictorDeveloper&bg_color=000000&color=ffffff&line=00bfbf&point=6b6fe6&area=true&hide_border=true)](https://github.com/AllanVictorDeveloper/github-readme-activity-"  />
+  graph)
 </div>
 
 
