@@ -35,8 +35,8 @@
 ![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&logoColor=blue&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
-
-![Jenkins](https://img.shields.io/badge/jenkins-0D1117?style=for-the-badge&logo=jenkins&logoColor=blue&labelColor=0D1117)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-0D1117?style=for-the-badge&logo=rabbitmq&logoColor=whitelabelColor=0D1117)
+![Jenkins](https://img.shields.io/badge/jenkins-0D1117?style=for-the-badge&logo=jenkins&logoColor=bluelabelColor=0D1117)
   
 
 
