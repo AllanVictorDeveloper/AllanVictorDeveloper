@@ -35,6 +35,7 @@
 
 ### Studying in this moment:
 ![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&logoColor=blue&labelColor=0D1117)&nbsp;
+![Jenkins](https://img.shields.io/badge/jenkins-0D1117?style=for-the-badge&logo=jenkins&logoColor=0D1117)
   
 
 
