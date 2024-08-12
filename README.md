@@ -14,7 +14,7 @@
 ![TYPESCRIPT](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=1572B6&labelColor=0D111)&nbsp;
 ![ANGULAR](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&logoColor=red&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-![.NETCORE](https://img.shields.io/badge/-.netcore-0D11?style=for-the-badge&logo=dotnet&logoColor=purple&labelColor=0D111)&nbsp;
+![.NETCORE](https://img.shields.io/badge/-.netcore-0D111?style=for-the-badge&logo=dotnet&logoColor=purple&labelColor=0D111)&nbsp;
 ![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=openjdk&logoColor=orange&labelColor=0D111)&nbsp;
 ![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css3&logoColor=blue&labelColor=0D1117)&nbsp;
